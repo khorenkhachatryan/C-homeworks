@@ -1,4 +1,4 @@
-//User needs to enter the array elemenets, and the programm will return the count of elements, that can divides on their index number without remand.
+//User needs to enter the array elemenets, and the programm will return the count of elements, that can divide on their index number without remand.
 #include <iostream> 
 int main() 
  {   
