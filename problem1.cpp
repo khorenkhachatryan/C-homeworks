@@ -1,4 +1,4 @@
-// User must enter some number, if the last and most significant bits are equal, function will return true.
+// User must be enter a number, if the last and most significant bits are equal, function will return true.
 #include <iostream>
 
 bool is_equal( unsigned int binar_num1 ) {
