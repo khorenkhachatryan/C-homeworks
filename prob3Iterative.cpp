@@ -1,4 +1,4 @@
-//Binary search with interative method 
+//Binary search with iterative method 
 #include <iostream> 
     int binary_search(int* ptr , int size, int num) 
     {    
