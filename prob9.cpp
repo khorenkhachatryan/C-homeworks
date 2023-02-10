@@ -18,7 +18,8 @@ int main()
            line[i] = line[i] - 32;
         }
     }
-    std::cout << line << std::endl;    
+    std::cout << line << std::endl; 
+    file.close();
 
     system("pause");
     return 0;
