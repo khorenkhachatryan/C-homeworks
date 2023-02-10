@@ -10,7 +10,7 @@ int main()
     if (file.is_open())
     {
         std::getline(file, line , '\n');
-        }
+    }
     for(int i = 0; i < line.size(); i++)
     {
         if(line[i] >= 97 && line[i] <= 122)
