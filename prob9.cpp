@@ -1,3 +1,4 @@
+// We have a some text into text.txt file, programm will return the sam text, but written in great words.
 #include <iostream>
 #include <fstream>
 #include <string>
