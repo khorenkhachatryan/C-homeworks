@@ -41,7 +41,4 @@ int main()
     std::cout << "the sum is " << sum_from_text() << std::endl;
     system("pause");
     return 0;
-    
-    
-    
 }
